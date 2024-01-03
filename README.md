@@ -16,4 +16,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.s
 
 ![](https://activity-graph.herokuapp.com/graph?username=Samsara-1999&theme=github)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samsara-1999&theme=dark&layout=compact)
+
 
