@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-label="Cosmic glassmorphism header">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020713" />
+      <stop offset="45%" stop-color="#0b1533" />
+      <stop offset="100%" stop-color="#030a1d" />
+    </linearGradient>
+
+    <radialGradient id="nebulaA" cx="22%" cy="22%" r="70%">
+      <stop offset="0%" stop-color="#7a5cff" stop-opacity="0.56" />
+      <stop offset="58%" stop-color="#7a5cff" stop-opacity="0.10" />
+      <stop offset="100%" stop-color="#7a5cff" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="nebulaB" cx="84%" cy="28%" r="72%">
+      <stop offset="0%" stop-color="#00d4ff" stop-opacity="0.50" />
+      <stop offset="60%" stop-color="#00d4ff" stop-opacity="0.08" />
+      <stop offset="100%" stop-color="#00d4ff" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="planet" cx="35%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#bff1ff" />
+      <stop offset="60%" stop-color="#58b6ff" />
+      <stop offset="100%" stop-color="#1c3b8f" />
+    </radialGradient>
+
+    <linearGradient id="glassStroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.30" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.06" />
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7a5cff" />
+      <stop offset="50%" stop-color="#00d4ff" />
+      <stop offset="100%" stop-color="#5cf2c1" />
+    </linearGradient>
+
+    <filter id="blurLarge">
+      <feGaussianBlur stdDeviation="24" />
+    </filter>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="2" result="b" />
+      <feMerge>
+        <feMergeNode in="b" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#bg)" />
+
+  <g filter="url(#blurLarge)">
+    <circle cx="220" cy="95" r="185" fill="url(#nebulaA)" />
+    <circle cx="980" cy="132" r="220" fill="url(#nebulaB)" />
+  </g>
+
+  <g fill="#ffffff" opacity="0.84">
+    <circle cx="80" cy="62" r="1.8">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="4.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="188" cy="130" r="1.4">
+      <animate attributeName="opacity" values="0.15;0.9;0.15" dur="3.6s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="346" cy="54" r="1.7">
+      <animate attributeName="opacity" values="0.2;0.95;0.2" dur="5.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="484" cy="114" r="1.4">
+      <animate attributeName="opacity" values="0.1;0.95;0.1" dur="4.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="604" cy="64" r="1.7">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="4.0s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="754" cy="108" r="1.5">
+      <animate attributeName="opacity" values="0.2;0.85;0.2" dur="4.7s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="910" cy="66" r="1.9">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="5.0s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1036" cy="150" r="1.4">
+      <animate attributeName="opacity" values="0.25;0.85;0.25" dur="3.8s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1122" cy="84" r="1.8">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="5.4s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <g filter="url(#softGlow)" opacity="0.82">
+    <line x1="1040" y1="40" x2="940" y2="120" stroke="#ffffff" stroke-opacity="0.75" stroke-width="1.2">
+      <animate attributeName="opacity" values="0;0.95;0" dur="5.2s" repeatCount="indefinite" />
+      <animate attributeName="x1" values="1040;1010;1040" dur="5.2s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="940;910;940" dur="5.2s" repeatCount="indefinite" />
+    </line>
+    <line x1="260" y1="70" x2="170" y2="142" stroke="#ffffff" stroke-opacity="0.62" stroke-width="1">
+      <animate attributeName="opacity" values="0;0.85;0" dur="6.4s" repeatCount="indefinite" />
+      <animate attributeName="x1" values="260;240;260" dur="6.4s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="170;150;170" dur="6.4s" repeatCount="indefinite" />
+    </line>
+  </g>
+
+  <circle cx="932" cy="300" r="56" fill="url(#planet)" opacity="0.95">
+    <animate attributeName="cy" values="300;292;300" dur="7s" repeatCount="indefinite" />
+  </circle>
+  <ellipse cx="932" cy="300" rx="90" ry="21" fill="none" stroke="#d9f8ff" stroke-opacity="0.4" stroke-width="2" />
+
+  <ellipse cx="182" cy="312" rx="58" ry="12" fill="none" stroke="#a084ff" stroke-opacity="0.45" stroke-width="1.5">
+    <animateTransform attributeName="transform" type="rotate" values="0 182 312;360 182 312" dur="14s" repeatCount="indefinite" />
+  </ellipse>
+  <circle cx="240" cy="312" r="9" fill="#b6fbff" />
+
+  <g>
+    <rect x="88" y="86" width="1024" height="248" rx="24" fill="#ffffff" fill-opacity="0.08" stroke="url(#glassStroke)" stroke-width="1.2" />
+    <rect x="118" y="116" width="188" height="36" rx="10" fill="#ffffff" fill-opacity="0.10" stroke="url(#glassStroke)" />
+    <text x="212" y="139" text-anchor="middle" fill="#e5f3ff" font-size="14" font-family="Consolas, Monaco, monospace">Samsara Hyperlane</text>
+    <text x="118" y="194" fill="#ffffff" font-size="52" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Hello, I am Samsara</text>
+    <text x="118" y="234" fill="#c9def9" font-size="20" font-family="Segoe UI, Arial, sans-serif">Direct PhD in China | Vision Language Models | Architecture | PEFT</text>
+    <rect x="118" y="256" width="590" height="6" rx="3" fill="url(#accent)">
+      <animate attributeName="width" values="590;700;590" dur="5.8s" repeatCount="indefinite" />
+    </rect>
+    <text x="118" y="296" fill="#9bb2cf" font-size="15" font-family="Consolas, Monaco, monospace">Exploring efficient multimodal systems and reliable engineering.</text>
+  </g>
+
+  <path d="M0 368 C 190 338, 380 404, 570 372 C 760 340, 950 404, 1200 370 L1200 420 L0 420 Z" fill="#ffffff" fill-opacity="0.06">
+    <animate
+      attributeName="d"
+      dur="8s"
+      repeatCount="indefinite"
+      values="
+        M0 368 C 190 338, 380 404, 570 372 C 760 340, 950 404, 1200 370 L1200 420 L0 420 Z;
+        M0 372 C 190 404, 380 338, 570 368 C 760 404, 950 340, 1200 374 L1200 420 L0 420 Z;
+        M0 368 C 190 338, 380 404, 570 372 C 760 340, 950 404, 1200 370 L1200 420 L0 420 Z" />
+  </path>
+</svg>
