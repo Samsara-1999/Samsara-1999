@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/cosmic-header.svg" alt="Samsara Cosmic Header" width="100%" />
+  <img src="./assets/profile-banner-cartoon.jpg" alt="Cartoon AI research lab banner" width="100%" />
 </div>
 
 <br/>
@@ -13,6 +13,23 @@
 </div>
 
 ---
+
+## Research Orbit
+
+<div align="center">
+  <a href="https://www.alibabagroup.com/"><img src="https://img.shields.io/badge/Alibaba%20Group-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Alibaba Group" /></a>
+  <a href="https://qwenlm.github.io/"><img src="https://img.shields.io/badge/Qwen-5A31F4?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen" /></a>
+  <a href="https://www.meituan.com/"><img src="https://img.shields.io/badge/Meituan-FFBF00?style=for-the-badge&logo=meituan&logoColor=111111" alt="Meituan" /></a>
+  <a href="https://github.com/meituan-longcat"><img src="https://img.shields.io/badge/LongCat-00A6D6?style=for-the-badge&logoColor=white" alt="LongCat" /></a>
+  <a href="https://www.hit.edu.cn/"><img src="https://img.shields.io/badge/HIT-1D4ED8?style=for-the-badge&logoColor=white" alt="Harbin Institute of Technology" /></a>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</div>
 
 ## Research Profile
 
