@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Samsara-1999/Samsara-1999/main/assets/profile-banner-cartoon.jpg" alt="Pixel-art starry AI research lab banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Samsara-1999/Samsara-1999/main/assets/profile-banner-pixel-stars.jpg" alt="Pixel-art starry AI research lab banner" width="100%" />
 </div>
 
 <br/>
@@ -17,18 +17,10 @@
 ## Research Orbit
 
 <div align="center">
-  <a href="https://www.alibabagroup.com/"><img src="https://img.shields.io/badge/Alibaba%20Group-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Alibaba Group" /></a>
-  <a href="https://qwenlm.github.io/"><img src="https://img.shields.io/badge/Qwen-5A31F4?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Qwen" /></a>
-  <a href="https://www.meituan.com/"><img src="https://img.shields.io/badge/Meituan-FFBF00?style=for-the-badge&logo=meituan&logoColor=111111" alt="Meituan" /></a>
-  <a href="https://github.com/meituan-longcat"><img src="https://img.shields.io/badge/LongCat-00A6D6?style=for-the-badge&logoColor=white" alt="LongCat" /></a>
-  <a href="https://www.hit.edu.cn/"><img src="https://img.shields.io/badge/HIT-1D4ED8?style=for-the-badge&logoColor=white" alt="Harbin Institute of Technology" /></a>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" />
 </div>
 
 ## Research Profile
@@ -46,9 +38,36 @@ I am a direct PhD student in Computer Science at Harbin Institute of Technology.
 
 ## Experience
 
-- **Alibaba Group · Qwen** — multimodal LLM post-training, Agentic RL, reward modeling, data evaluation, and OPD workflows.
-- **Meituan · LongCat** — multimodal and speech foundation-model post-training, data-mixture design, and scaling-aware validation.
-- **AI research infrastructure** — GPU cluster administration, automation tools, and reliable training workflows.
+<table>
+  <tr>
+    <td valign="top" width="25%">
+      <a href="https://www.alibabagroup.com/"><img src="https://img.shields.io/badge/Alibaba%20Group-FF6A00?style=for-the-badge&amp;logo=alibabacloud&amp;logoColor=white" alt="Alibaba Group" /></a><br/>
+      <b>Alibaba Group · Qwen</b>
+    </td>
+    <td valign="top">
+      Multimodal LLM post-training, Agentic RL, reward modeling, data evaluation, and online policy distillation workflows.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="25%">
+      <a href="https://www.meituan.com/"><img src="https://img.shields.io/badge/Meituan-FFBF00?style=for-the-badge&amp;logo=meituan&amp;logoColor=111111" alt="Meituan" /></a><br/>
+      <a href="https://github.com/meituan-longcat"><img src="https://img.shields.io/badge/LongCat-00A6D6?style=for-the-badge" alt="LongCat" /></a><br/>
+      <b>Meituan · LongCat</b>
+    </td>
+    <td valign="top">
+      Multimodal and speech foundation-model post-training, data-mixture design, scaling-aware validation, and multimodal representation studies.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="25%">
+      <a href="https://www.hit.edu.cn/"><img src="https://img.shields.io/badge/HIT-1D4ED8?style=for-the-badge" alt="Harbin Institute of Technology" /></a><br/>
+      <b>AI research infrastructure</b>
+    </td>
+    <td valign="top">
+      GPU cluster administration, automation tools, and reliable training workflows for research teams.
+    </td>
+  </tr>
+</table>
 
 ## Selected Publications
 
