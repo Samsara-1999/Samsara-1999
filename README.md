@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://github.com/Samsara-1999/Samsara-1999/blob/main/assets/profile-banner-ai-platformer.jpg?raw=true" alt="Pixel-art AI platformer banner" width="100%" />
+  <img src="https://github.com/Samsara-1999/Samsara-1999/blob/main/assets/profile-banner-ai-platformer-v2.jpg?raw=true" alt="Pixel-art AI platformer banner" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
   <h1>Samsara</h1>
-  <p>Multimodal LLM post-training · Agentic RL · VLM systems</p>
+  <p>LLM / Multimodal LLM · Agentic RL · VLM systems</p>
   <img src="https://img.shields.io/badge/Field-VLM%20%7C%20Agentic%20RL%20%7C%20PEFT-6d5efc?style=for-the-badge" alt="Field badge" />
   <img src="https://img.shields.io/badge/Role-Research%20%26%20Infra-14b8ff?style=for-the-badge" alt="Role badge" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Research%20%26%20Work-3cd6b8?style=for-the-badge" alt="Status badge" />
@@ -25,15 +25,15 @@
 
 ## Research Profile
 
-I am a direct PhD student in Computer Science at Harbin Institute of Technology. My work focuses on post-training for language and multimodal models, with an emphasis on Agentic RL, online policy distillation, data flywheels, reward modeling, and efficient training and inference.
+I am a direct PhD student in Computer Science at Harbin Institute of Technology. My work focuses on post-training for LLMs and multimodal LLMs, with an emphasis on Agentic RL, online policy distillation, data flywheels, reward modeling, and efficient training and inference.
 
 ## Research Interests
 
 - Agentic RL and online policy distillation
-- Vision-language and multimodal model post-training
+- LLM / Multimodal LLM post-training
 - Data valuation, trajectory evaluation, and curriculum sampling
 - High-performance model training and inference
-- Speech-language and vision-language model architecture
+- LLM / Multimodal LLM architecture
 - Parameter-efficient fine-tuning
 
 ## Experience
@@ -45,7 +45,7 @@ I am a direct PhD student in Computer Science at Harbin Institute of Technology.
       <b>Alibaba Group · Qwen</b>
     </td>
     <td valign="top">
-      Multimodal LLM post-training, Agentic RL, reward modeling, data evaluation, and online policy distillation workflows.
+      LLM / Multimodal LLM post-training, Agentic RL, reward modeling, data evaluation, and online policy distillation workflows.
     </td>
   </tr>
   <tr>
@@ -55,7 +55,7 @@ I am a direct PhD student in Computer Science at Harbin Institute of Technology.
       <b>Meituan · LongCat</b>
     </td>
     <td valign="top">
-      Multimodal and speech foundation-model post-training, data-mixture design, scaling-aware validation, and multimodal representation studies.
+      LLM / Multimodal LLM and speech foundation-model post-training, data-mixture design, scaling-aware validation, and multimodal representation studies.
     </td>
   </tr>
   <tr>
