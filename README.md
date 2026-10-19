@@ -1,4 +1,6 @@
-<div style="background-color:#08112e; color:#eef4ff; padding:24px; border-radius:18px;">
+<table width="100%" bgcolor="#08112e">
+<tr><td>
+<font color="#eef4ff">
 
 <div align="center">
   <img src="https://github.com/Samsara-1999/Samsara-1999/raw/refs/heads/main/assets/profile-banner-pixel-stars.jpg" alt="Pixel-art starry AI research lab banner" width="100%" />
@@ -102,4 +104,6 @@ Python · PyTorch · Go · Linux · Bash · Docker · Kubernetes · distributed 
 </div>
 
 
-</div>
+</font>
+</td></tr>
+</table>
