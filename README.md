@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1>Samsara</h1>
-  <p>LLM / Multimodal LLM · Agentic RL · VLM systems</p>
+  <p><b>LLM / Multimodal LLM</b> · Agentic RL · VLM systems</p>
   <img src="https://img.shields.io/badge/Field-VLM%20%7C%20Agentic%20RL%20%7C%20PEFT-6d5efc?style=for-the-badge" alt="Field badge" />
   <img src="https://img.shields.io/badge/Role-Research%20%26%20Infra-14b8ff?style=for-the-badge" alt="Role badge" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Research%20%26%20Work-3cd6b8?style=for-the-badge" alt="Status badge" />
@@ -14,88 +14,121 @@
 
 ---
 
-## Research Orbit
+## 🧭 Research Profile
 
-<div align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" />
-</div>
+<table>
+  <tr>
+    <td>🎓</td>
+    <td><b>Direct PhD</b><br/><sub>Computer Science · Harbin Institute of Technology</sub></td>
+    <td>🔬</td>
+    <td><b>Research</b><br/><sub>LLM / Multimodal LLM post-training</sub></td>
+  </tr>
+  <tr>
+    <td>⚡</td>
+    <td><b>Core methods</b><br/><sub>Agentic RL · OPD · Reward Modeling</sub></td>
+    <td>🖥️</td>
+    <td><b>Systems</b><br/><sub>GPU infrastructure · Training & Inference</sub></td>
+  </tr>
+</table>
 
-## Research Profile
+## 🧠 Research Interests
 
-I am a direct PhD student in Computer Science at Harbin Institute of Technology. My work focuses on post-training for LLMs and multimodal LLMs, with an emphasis on Agentic RL, online policy distillation, data flywheels, reward modeling, and efficient training and inference.
+<table>
+  <tr>
+    <td>🤖<br/><b>Agentic RL</b><br/><sub>Long-horizon tool use</sub></td>
+    <td>🧩<br/><b>LLM / Multimodal LLM</b><br/><sub>Post-training & alignment</sub></td>
+    <td>📈<br/><b>Data Flywheels</b><br/><sub>Evaluation & curriculum</sub></td>
+  </tr>
+  <tr>
+    <td>⚙️<br/><b>Efficient Systems</b><br/><sub>Training & inference</sub></td>
+    <td>🧬<br/><b>Model Architecture</b><br/><sub>VLM and speech-language models</sub></td>
+    <td>🛠️<br/><b>PEFT</b><br/><sub>Practical adaptation</sub></td>
+  </tr>
+</table>
 
-## Research Interests
-
-- Agentic RL and online policy distillation
-- LLM / Multimodal LLM post-training
-- Data valuation, trajectory evaluation, and curriculum sampling
-- High-performance model training and inference
-- LLM / Multimodal LLM architecture
-- Parameter-efficient fine-tuning
-
-## Experience
+## 💼 Experience
 
 <table>
   <tr>
     <td valign="top" width="25%">
       <a href="https://www.alibabagroup.com/"><img src="https://img.shields.io/badge/Alibaba%20Group-FF6A00?style=for-the-badge&amp;logo=alibabacloud&amp;logoColor=white" alt="Alibaba Group" /></a><br/>
-      <b>Alibaba Group · Qwen</b>
+      <b>Qwen</b>
     </td>
     <td valign="top">
-      LLM / Multimodal LLM post-training, Agentic RL, reward modeling, data evaluation, and online policy distillation workflows.
+      🧪 LLM / Multimodal LLM post-training<br/>
+      🤖 Agentic RL and reward modeling<br/>
+      🔁 Data evaluation and online policy distillation
     </td>
   </tr>
   <tr>
     <td valign="top" width="25%">
       <a href="https://www.meituan.com/"><img src="https://img.shields.io/badge/Meituan-FFBF00?style=for-the-badge&amp;logo=meituan&amp;logoColor=111111" alt="Meituan" /></a><br/>
-      <a href="https://github.com/meituan-longcat"><img src="https://img.shields.io/badge/LongCat-00A6D6?style=for-the-badge" alt="LongCat" /></a><br/>
-      <b>Meituan · LongCat</b>
+      <a href="https://github.com/meituan-longcat"><img src="https://img.shields.io/badge/LongCat-00A6D6?style=for-the-badge" alt="LongCat" /></a>
     </td>
     <td valign="top">
-      LLM / Multimodal LLM and speech foundation-model post-training, data-mixture design, scaling-aware validation, and multimodal representation studies.
+      🎙️ LLM / Multimodal LLM and speech-model post-training<br/>
+      🧮 Data-mixture design and scaling-aware validation<br/>
+      🧠 Multimodal representation studies
     </td>
   </tr>
   <tr>
     <td valign="top" width="25%">
       <a href="https://www.hit.edu.cn/"><img src="https://img.shields.io/badge/HIT-1D4ED8?style=for-the-badge" alt="Harbin Institute of Technology" /></a><br/>
-      <b>AI research infrastructure</b>
+      <b>AI Research Infrastructure</b>
     </td>
     <td valign="top">
-      GPU cluster administration, automation tools, and reliable training workflows for research teams.
+      🖥️ GPU cluster administration<br/>
+      🔧 Automation tools for research teams<br/>
+      🛡️ Reliable training workflows and operations
     </td>
   </tr>
 </table>
 
-## Selected Publications
+## 📚 Selected Publications
 
-- **Twin-T & TwintVQA** — CVPR 2026
-- **BISCUIT** — AAAI 2026
-- **BOLT** — ACM Multimedia 2025
-- **History Tracker** — ICME 2025
-- **PAM-FOG Net** — ACM TOSN
-- **Module Lightweighting and Path Transferring in Vision-Language Models** — SenSys 2024
+- 🧩 **Twin-T & TwintVQA** · CVPR 2026
+- 🧠 **BISCUIT** · AAAI 2026
+- ⚡ **BOLT** · ACM Multimedia 2025
+- 🧭 **History Tracker** · ICME 2025
+- 🌿 **PAM-FOG Net** · ACM TOSN
+- 🛰️ **Module Lightweighting and Path Transferring in Vision-Language Models** · SenSys 2024
 
-See the [public research resume](resume.md) for the project summaries and full publication titles.
+📄 [Read the public research resume](resume.md)
 
-## Technical Stack
+## 🧰 Technical Stack
 
-Python · PyTorch · Go · Linux · Bash · Docker · Kubernetes · distributed training · VLMs · Agentic RL · PEFT
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&amp;logo=go&amp;logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=111111" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes" />
+</div>
 
-## Selected Work
+## 🚀 Selected Work
 
-- [Bursar](https://github.com/atoz03/Bursar) — accounts and quotas for shared GPU clusters
-- [BISCUIT](https://github.com/Samsara-1999/BISCUIT) — vision-language model research
-- [Twin-T / TwintVQA](https://github.com/Samsara-1999/Twin-T-TwintVQA) — chart and table understanding research
+<table>
+  <tr>
+    <td>💳</td>
+    <td><a href="https://github.com/atoz03/Bursar"><b>Bursar</b></a><br/><sub>Accounts and quotas for shared GPU clusters</sub></td>
+    <td>🧠</td>
+    <td><a href="https://github.com/Samsara-1999/BISCUIT"><b>BISCUIT</b></a><br/><sub>Vision-language model research</sub></td>
+  </tr>
+  <tr>
+    <td>📊</td>
+    <td><a href="https://github.com/Samsara-1999/Twin-T-TwintVQA"><b>Twin-T / TwintVQA</b></a><br/><sub>Chart and table understanding</sub></td>
+    <td>🧪</td>
+    <td><a href="resume.md"><b>Research Resume</b></a><br/><sub>Projects, publications, and experience</sub></td>
+  </tr>
+</table>
 
-## Contact
+## 🤝 Contact
 
-- GitHub: [@Samsara-1999](https://github.com/Samsara-1999)
-- Open to research collaborations and engineering opportunities
+- 🐙 GitHub: [@Samsara-1999](https://github.com/Samsara-1999)
+- 💬 Topics: LLM / Multimodal LLM, Agentic RL, VLM systems, and infrastructure
+- 🌱 Open to research collaborations and engineering opportunities
 
 <div align="center">
   <img src="./assets/cosmic-divider.svg" alt="Cosmic Divider" width="100%" />
 </div>
-
