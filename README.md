@@ -1,3 +1,5 @@
+<div style="background-color:#08112e; color:#eef4ff; padding:24px; border-radius:18px;">
+
 <div align="center">
   <img src="https://github.com/Samsara-1999/Samsara-1999/raw/refs/heads/main/assets/profile-banner-pixel-stars.jpg" alt="Pixel-art starry AI research lab banner" width="100%" />
 </div>
@@ -97,4 +99,7 @@ Python · PyTorch · Go · Linux · Bash · Docker · Kubernetes · distributed 
 
 <div align="center">
   <img src="./assets/cosmic-divider.svg" alt="Cosmic Divider" width="100%" />
+</div>
+
+
 </div>
