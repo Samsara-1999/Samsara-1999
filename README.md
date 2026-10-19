@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Samsara-1999/Samsara-1999/raw/refs/heads/main/assets/profile-banner-pixel-stars.jpg" alt="Pixel-art starry AI research lab banner" width="100%" />
+  <img src="https://github.com/Samsara-1999/Samsara-1999/blob/main/assets/profile-banner-ai-platformer.jpg?raw=true" alt="Pixel-art AI platformer banner" width="100%" />
 </div>
 
 <br/>
