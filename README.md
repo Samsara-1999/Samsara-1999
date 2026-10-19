@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner-cartoon.jpg" alt="Cartoon AI research lab banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Samsara-1999/Samsara-1999/main/assets/profile-banner-cartoon.jpg" alt="Pixel-art starry AI research lab banner" width="100%" />
 </div>
 
 <br/>
